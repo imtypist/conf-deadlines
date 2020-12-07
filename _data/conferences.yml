@@ -12,6 +12,7 @@
   date: July 7-10, 2021 (Tentative)
   place: Washington DC, USA
   sub: DS
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 6, 2021. More info <a href=''https://icdcs2021.us/''>here</a>.'
 
 # Computer Network
 
@@ -25,6 +26,7 @@
   date: Week of July 26, 2021
   place: Shanghai, China (Hybrid mode)
   sub: CN
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Dec 12, 2020. More info <a href=''https://www.sigmobile.org/mobihoc/2021/''>here</a>.'
 
 - title: IEEE INFOCOM
   year: 2021
@@ -36,6 +38,7 @@
   date: May 10-13, 2021
   place: Virtual Conference
   sub: CN
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Aug 8, 2020. More info <a href=''https://infocom2021.ieee-infocom.org/''>here</a>.'
 
 - title: MobiSys
   year: 2021
@@ -47,6 +50,7 @@
   date: To be determined
   place: To be determined
   sub: CN
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 8, 2021. More info <a href=''https://sigmobile.org/mobisys/2021/cfp.pdf''>here</a>.'
 
 - title: MobiCom (Summer Deadlines)
   year: 2021
@@ -58,6 +62,7 @@
   date: October 25-29, 2021
   place: New Orleans, United States
   sub: CN
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Aug 21, 2020. More info <a href=''https://www.sigmobile.org/mobicom/2021/index.html''>here</a>.'
 
 - title: MobiCom (Winter Deadlines)
   year: 2021
@@ -69,6 +74,7 @@
   date: October 25-29, 2021
   place: New Orleans, United States
   sub: CN
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Mar 19, 2021. More info <a href=''https://www.sigmobile.org/mobicom/2021/index.html''>here</a>.'
 
 - title: IWQoS
   year: 2021
@@ -80,6 +86,7 @@
   date: June 25-28, 2021
   place: Tokyo, Japan
   sub: CN
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 15, 2021. More info <a href=''https://iwqos2021.ieee-iwqos.org/''>here</a>.'
 
 - title: NSDI (Spring deadline)
   year: 2021
@@ -91,6 +98,7 @@
   date: April 12-14, 2021
   place: Virtual event
   sub: CN
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Apr 10, 2020. More info <a href=''https://www.usenix.org/conference/nsdi21''>here</a>.'
 
 - title: NSDI (Fall deadline)
   year: 2021
@@ -102,6 +110,7 @@
   date: April 12-14, 2021
   place: Virtual event
   sub: CN
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Sept 10, 2020. More info <a href=''https://www.usenix.org/conference/nsdi21''>here</a>.'
 
 # Security & Privacy
 
