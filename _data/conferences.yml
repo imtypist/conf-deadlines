@@ -1,0 +1,85 @@
+---
+
+- title: ICDCS
+  year: 2021
+  id: icdcs2021
+  link: https://icdcs2021.us/
+  deadline: '2021-1-13 23:59:59'
+  abstract_deadline: '2021-1-6 23:59:59'
+  timezone: UTC-5
+  date: July 7-10, 2021 (Tentative)
+  place: Washington DC, USA
+  sub: DS
+
+- title: MobiHoc
+  year: 2021
+  id: mobihoc2021
+  link: https://www.sigmobile.org/mobihoc/2021/
+  deadline: '2020-12-19 23:59:59'
+  abstract_deadline: '2020-12-12 23:59:59'
+  timezone: UTC-5
+  date: Week of July 26, 2021
+  place: Shanghai, China (Hybrid mode)
+  sub: CN
+
+- title: IEEE INFOCOM
+  year: 2021
+  id: infocom2021
+  link: https://infocom2021.ieee-infocom.org/
+  deadline: '2020-8-15 23:59:59'
+  abstract_deadline: '2020-8-8 23:59:59'
+  timezone: UTC-4
+  date: May 10-13, 2021
+  place: Virtual Conference
+  sub: CN
+
+- title: NDSS
+  year: 2021
+  id: ndss2021
+  link: https://www.ndss-symposium.org/ndss2021/
+  deadline: 
+    - '2020-5-22 23:59:59'
+    - '2020-7-31 23:59:59'
+  timezone: UTC-12
+  date: February 21-24, 2021
+  place: San Diego, CA (Virtual Conference)
+  sub: SP
+
+- title: CCS
+  year: 2021
+  id: ccs2021
+  link: https://www.sigsac.org/ccs/CCS2021/
+  deadline: 
+    - '2021-1-20 23:59:59'
+    - '2021-5-6 23:59:59'
+  timezone: UTC-12
+  date: November 14-19, 2021
+  place: Seoul, South Korea
+  sub: SP
+
+- title: S&P (Oakland)
+  year: 2021
+  id: sp2021
+  link: https://www.ieee-security.org/TC/SP2021/index.html
+  deadline: 
+    - '2020-3-5 23:59:59'
+    - '2020-6-4 23:59:59'
+    - '2020-9-3 23:59:59'
+    - '2020-12-3 23:59:59'
+  timezone: UTC-12
+  date: May 23-27, 2021
+  place: Taking Place Virtually
+  sub: SP
+
+- title: USENIX Security
+  year: 2021
+  id: usenixsecurity2021
+  link: https://www.usenix.org/conference/usenixsecurity21
+  deadline: 
+    - '2020-6-18 23:59:59'
+    - '2020-10-15 23:59:59'
+    - '2021-2-4 23:59:59'
+  timezone: UTC-12
+  date: August 11-13, 2021
+  place: Vancouver, B.C., Canada
+  sub: SP

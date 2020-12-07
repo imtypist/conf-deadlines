@@ -1,0 +1,7 @@
+---
+- name: Distributed System
+  sub: DS
+- name: Computer Network
+  sub: CN
+- name: Security & Privacy
+  sub: SP
