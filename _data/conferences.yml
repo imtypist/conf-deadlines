@@ -33,52 +33,111 @@
   place: Virtual Conference
   sub: CN
 
-- title: NDSS
+- title: NDSS (Summer Review Cycle)
   year: 2021
-  id: ndss2021
+  id: ndss2021-summer
   link: https://www.ndss-symposium.org/ndss2021/
-  deadline: 
-    - '2020-5-22 23:59:59'
-    - '2020-7-31 23:59:59'
+  deadline: '2020-5-22 23:59:59'
   timezone: UTC-12
   date: February 21-24, 2021
   place: San Diego, CA (Virtual Conference)
   sub: SP
 
-- title: CCS
+- title: NDSS (Fall Review Cycle)
   year: 2021
-  id: ccs2021
+  id: ndss2021-fall
+  link: https://www.ndss-symposium.org/ndss2021/
+  deadline: '2020-7-31 23:59:59'
+  timezone: UTC-12
+  date: February 21-24, 2021
+  place: San Diego, CA (Virtual Conference)
+  sub: SP
+
+- title: CCS (First Review Cycle)
+  year: 2021
+  id: ccs2021-first
   link: https://www.sigsac.org/ccs/CCS2021/
-  deadline: 
-    - '2021-1-20 23:59:59'
-    - '2021-5-6 23:59:59'
+  deadline: '2021-1-20 23:59:59'
   timezone: UTC-12
   date: November 14-19, 2021
   place: Seoul, South Korea
   sub: SP
 
-- title: S&P (Oakland)
+- title: CCS (Second Review Cycle)
   year: 2021
-  id: sp2021
+  id: ccs2021-second
+  link: https://www.sigsac.org/ccs/CCS2021/
+  deadline: '2021-5-6 23:59:59'
+  timezone: UTC-12
+  date: November 14-19, 2021
+  place: Seoul, South Korea
+  sub: SP
+
+- title: S&P (Spring Quarter Deadline)
+  year: 2021
+  id: sp2021-spring
   link: https://www.ieee-security.org/TC/SP2021/index.html
-  deadline: 
-    - '2020-3-5 23:59:59'
-    - '2020-6-4 23:59:59'
-    - '2020-9-3 23:59:59'
-    - '2020-12-3 23:59:59'
+  deadline: '2020-3-5 23:59:59'
   timezone: UTC-12
   date: May 23-27, 2021
   place: Taking Place Virtually
   sub: SP
 
-- title: USENIX Security
+- title: S&P (Summer Quarter Deadline)
   year: 2021
-  id: usenixsecurity2021
+  id: sp2021-summer
+  link: https://www.ieee-security.org/TC/SP2021/index.html
+  deadline: '2020-6-4 23:59:59'
+  timezone: UTC-12
+  date: May 23-27, 2021
+  place: Taking Place Virtually
+  sub: SP
+
+- title: S&P (Fall Quarter Deadline)
+  year: 2021
+  id: sp2021-fall
+  link: https://www.ieee-security.org/TC/SP2021/index.html
+  deadline: '2020-9-3 23:59:59'
+  timezone: UTC-12
+  date: May 23-27, 2021
+  place: Taking Place Virtually
+  sub: SP
+
+- title: S&P (Winter Quarter Deadline)
+  year: 2021
+  id: sp2021-winter
+  link: https://www.ieee-security.org/TC/SP2021/index.html
+  deadline: '2020-12-3 23:59:59'
+  timezone: UTC-12
+  date: May 23-27, 2021
+  place: Taking Place Virtually
+  sub: SP
+
+- title: USENIX Security (Summer Deadline)
+  year: 2021
+  id: usenixsecurity2021-summer
   link: https://www.usenix.org/conference/usenixsecurity21
-  deadline: 
-    - '2020-6-18 23:59:59'
-    - '2020-10-15 23:59:59'
-    - '2021-2-4 23:59:59'
+  deadline: '2020-6-18 23:59:59'
+  timezone: UTC-12
+  date: August 11-13, 2021
+  place: Vancouver, B.C., Canada
+  sub: SP
+
+- title: USENIX Security (Fall Deadline)
+  year: 2021
+  id: usenixsecurity2021-fall
+  link: https://www.usenix.org/conference/usenixsecurity21
+  deadline: '2020-10-15 23:59:59'
+  timezone: UTC-12
+  date: August 11-13, 2021
+  place: Vancouver, B.C., Canada
+  sub: SP
+
+- title: USENIX Security (Winter Deadline)
+  year: 2021
+  id: usenixsecurity2021-winter
+  link: https://www.usenix.org/conference/usenixsecurity21
+  deadline: '2021-2-4 23:59:59'
   timezone: UTC-12
   date: August 11-13, 2021
   place: Vancouver, B.C., Canada
