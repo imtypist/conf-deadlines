@@ -30,7 +30,6 @@ permalink:  /conference/
                 <div class="col-xs-12 col-sm-12">
                   <h1>
                     <a id="conf-title-href" nohref></a>
-                    <span id="twitter-box"></span>
                   </h1>
                 </div>
                 <div class="meta deadline col-xs-12">
@@ -108,8 +107,7 @@ permalink:  /conference/
               $('#conf-place').text("{{conf.place}}");
               $('#conf-website').text("{{conf.link}}");
               $('#conf-website').attr('href', "{{conf.link}}");
-              var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #{{ conf.title }}{{ conf.year }} deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
-              $('#twitter-box').html(twitter_slug);
+              
               {% if conf.deadline == "TBA" %}
                 $('#conf-timer').html("TBA");
                 $('.deadline-time').html("TBA");
