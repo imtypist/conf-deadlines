@@ -1,5 +1,10 @@
 ---
 
+# EST: UTC-5
+# EDT: UTC-4
+# AoE: UTC-12 (default)
+# https://en.wikipedia.org/wiki/Eastern_Time_Zone
+
 # Distributed System
 
 - title: ICDCS
@@ -36,7 +41,7 @@
   abstract_deadline: '2020-8-8 23:59:59'
   timezone: UTC-4
   date: May 10-13, 2021
-  place: Virtual Conference
+  place: Online
   sub: CN
   note: '<b>NOTE</b>: Mandatory abstract deadline on Aug 8, 2020. More info <a href=''https://infocom2021.ieee-infocom.org/''>here</a>.'
 
@@ -96,7 +101,7 @@
   abstract_deadline: '2020-4-10 23:59:59'
   timezone: UTC-4
   date: April 12-14, 2021
-  place: Virtual event
+  place: Online
   sub: CN
   note: '<b>NOTE</b>: Mandatory abstract deadline on Apr 10, 2020. More info <a href=''https://www.usenix.org/conference/nsdi21''>here</a>.'
 
@@ -108,9 +113,21 @@
   abstract_deadline: '2020-9-10 23:59:59'
   timezone: UTC-4
   date: April 12-14, 2021
-  place: Virtual event
+  place: Online
   sub: CN
   note: '<b>NOTE</b>: Mandatory abstract deadline on Sept 10, 2020. More info <a href=''https://www.usenix.org/conference/nsdi21''>here</a>.'
+
+- title: SIGCOMM
+  year: 2021
+  id: sigcomm2021
+  link: http://conferences.sigcomm.org/sigcomm/2021/
+  deadline: '2021-1-27 16:59:59'
+  abstract_deadline: '2021-1-20 16:59:59'
+  timezone: UTC-5
+  date: August 23-27, 2021
+  place: Online
+  sub: CN
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 20, 2021. More info <a href=''http://conferences.sigcomm.org/sigcomm/2021/''>here</a>.'
 
 # Security & Privacy
 
@@ -121,7 +138,7 @@
   deadline: '2020-5-22 23:59:59'
   timezone: UTC-12
   date: February 21-24, 2021
-  place: San Diego, CA (Virtual Conference)
+  place: San Diego, CA (Online)
   sub: SP
 
 - title: NDSS (Fall Review Cycle)
@@ -131,7 +148,7 @@
   deadline: '2020-7-31 23:59:59'
   timezone: UTC-12
   date: February 21-24, 2021
-  place: San Diego, CA (Virtual Conference)
+  place: San Diego, CA (Online)
   sub: SP
 
 - title: CCS (First Review Cycle)
@@ -161,7 +178,7 @@
   deadline: '2020-3-5 23:59:59'
   timezone: UTC-12
   date: May 23-27, 2021
-  place: Taking Place Virtually
+  place: Online
   sub: SP
 
 - title: S&P (Summer Quarter Deadline)
@@ -171,7 +188,7 @@
   deadline: '2020-6-4 23:59:59'
   timezone: UTC-12
   date: May 23-27, 2021
-  place: Taking Place Virtually
+  place: Online
   sub: SP
 
 - title: S&P (Fall Quarter Deadline)
@@ -181,7 +198,7 @@
   deadline: '2020-9-3 23:59:59'
   timezone: UTC-12
   date: May 23-27, 2021
-  place: Taking Place Virtually
+  place: Online
   sub: SP
 
 - title: S&P (Winter Quarter Deadline)
@@ -191,7 +208,7 @@
   deadline: '2020-12-3 23:59:59'
   timezone: UTC-12
   date: May 23-27, 2021
-  place: Taking Place Virtually
+  place: Online
   sub: SP
 
 - title: USENIX Security (Summer Deadline)
