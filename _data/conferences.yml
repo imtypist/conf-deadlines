@@ -248,7 +248,7 @@
   id: ubicomp-issue4
   link: http://imwut.acm.org/
   deadline: '2020-8-15 23:59:59'
-  timezone: UTC-12
+  timezone: UTC-5
   date: To be determined
   place: co-located with ISWC
   sub: MC
@@ -259,7 +259,7 @@
   id: ubicomp-issue1
   link: http://imwut.acm.org/
   deadline: '2020-11-15 23:59:59'
-  timezone: UTC-12
+  timezone: UTC-5
   date: To be determined
   place: co-located with ISWC
   sub: MC
@@ -270,7 +270,7 @@
   id: ubicomp-issue2
   link: http://imwut.acm.org/
   deadline: '2021-2-15 23:59:59'
-  timezone: UTC-12
+  timezone: UTC-5
   date: To be determined
   place: co-located with ISWC
   sub: MC
@@ -281,7 +281,7 @@
   id: ubicomp-issue3
   link: http://imwut.acm.org/
   deadline: '2021-5-15 23:59:59'
-  timezone: UTC-12
+  timezone: UTC-5
   date: To be determined
   place: co-located with ISWC
   sub: MC
