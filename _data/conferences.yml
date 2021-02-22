@@ -243,46 +243,46 @@
 
   # Mobile Computing
 
-- title: UbiComp/IMWUT (Issue 4)
-  year: 2021
-  id: ubicomp-issue4
-  link: http://imwut.acm.org/
-  deadline: '2020-8-15 23:59:59'
-  timezone: UTC-5
-  date: To be determined
-  place: co-located with ISWC
-  sub: MC
-  note: '<b>NOTE</b>: IMWUT has 4 deadlines per year: February 15, May 15, August 15, and November 15.'
-
-- title: UbiComp/IMWUT (Issue 1)
+- title: UbiComp/IMWUT (Issue 1, 2021)
   year: 2021
   id: ubicomp-issue1
   link: http://imwut.acm.org/
-  deadline: '2020-11-15 23:59:59'
+  deadline: '2021-2-15 23:59:59'
   timezone: UTC-5
-  date: To be determined
-  place: co-located with ISWC
+  date: September 21-26, 2021
+  place: Virtual Conference
   sub: MC
   note: '<b>NOTE</b>: IMWUT has 4 deadlines per year: February 15, May 15, August 15, and November 15.'
 
-- title: UbiComp/IMWUT (Issue 2)
+- title: UbiComp/IMWUT (Issue 2, 2021)
   year: 2021
   id: ubicomp-issue2
   link: http://imwut.acm.org/
-  deadline: '2021-2-15 23:59:59'
+  deadline: '2021-5-15 23:59:59'
   timezone: UTC-5
-  date: To be determined
-  place: co-located with ISWC
+  date: September 21-26, 2021
+  place: Virtual Conference
   sub: MC
   note: '<b>NOTE</b>: IMWUT has 4 deadlines per year: February 15, May 15, August 15, and November 15.'
 
-- title: UbiComp/IMWUT (Issue 3)
+- title: UbiComp/IMWUT (Issue 3, 2021)
   year: 2021
   id: ubicomp-issue3
   link: http://imwut.acm.org/
-  deadline: '2021-5-15 23:59:59'
+  deadline: '2021-8-15 23:59:59'
   timezone: UTC-5
-  date: To be determined
-  place: co-located with ISWC
+  date: September 21-26, 2021
+  place: Virtual Conference
+  sub: MC
+  note: '<b>NOTE</b>: IMWUT has 4 deadlines per year: February 15, May 15, August 15, and November 15.'
+
+- title: UbiComp/IMWUT (Issue 4, 2020)
+  year: 2021
+  id: ubicomp-issue4
+  link: http://imwut.acm.org/
+  deadline: '2020-11-15 23:59:59'
+  timezone: UTC-5
+  date: September 21-26, 2021
+  place: Virtual Conference
   sub: MC
   note: '<b>NOTE</b>: IMWUT has 4 deadlines per year: February 15, May 15, August 15, and November 15.'
