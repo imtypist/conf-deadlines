@@ -1,9 +1,13 @@
 ---
 
+# https://en.wikipedia.org/wiki/Eastern_Time_Zone
 # EST: UTC-5
 # EDT: UTC-4
 # AoE: UTC-12 (default)
-# https://en.wikipedia.org/wiki/Eastern_Time_Zone
+#
+# https://en.wikipedia.org/wiki/Pacific_Time_Zone
+# PST: UTC-8
+# PDT: UTC-7
 
 # Distributed System
 
@@ -94,28 +98,28 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 15, 2021. More info <a href=''https://iwqos2021.ieee-iwqos.org/''>here</a>.'
 
 - title: NSDI (Spring deadline)
-  year: 2021
-  id: nsdi2021-spring
-  link: https://www.usenix.org/conference/nsdi21
-  deadline: '2020-4-17 23:59:59'
-  abstract_deadline: '2020-4-10 23:59:59'
-  timezone: UTC-4
-  date: April 12-14, 2021
-  place: Online
+  year: 2022
+  id: nsdi2022-spring
+  link: https://www.usenix.org/conference/nsdi22/call-for-papers
+  deadline: '2021-3-10 23:59:59'
+  abstract_deadline: '2021-3-4 23:59:59'
+  timezone: UTC-8
+  date: April 4-6, 2022
+  place: Renton, WA, USA
   sub: CN
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Apr 10, 2020. More info <a href=''https://www.usenix.org/conference/nsdi21''>here</a>.'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Mar 4, 2021. More info <a href=''https://www.usenix.org/conference/nsdi22/call-for-papers''>here</a>.'
 
 - title: NSDI (Fall deadline)
-  year: 2021
-  id: nsdi2021-fall
-  link: https://www.usenix.org/conference/nsdi21
-  deadline: '2020-9-17 23:59:59'
-  abstract_deadline: '2020-9-10 23:59:59'
-  timezone: UTC-4
-  date: April 12-14, 2021
-  place: Online
+  year: 2022
+  id: nsdi2022-fall
+  link: https://www.usenix.org/conference/nsdi22/call-for-papers
+  deadline: '2021-9-15 23:59:59'
+  abstract_deadline: '2021-9-9 23:59:59'
+  timezone: UTC-7
+  date: April 4-6, 2022
+  place: Renton, WA, USA
   sub: CN
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Sept 10, 2020. More info <a href=''https://www.usenix.org/conference/nsdi21''>here</a>.'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Sept 9, 2021. More info <a href=''https://www.usenix.org/conference/nsdi22/call-for-papers''>here</a>.'
 
 - title: SIGCOMM
   year: 2021
@@ -171,74 +175,64 @@
   place: Seoul, South Korea
   sub: SP
 
-- title: S&P (Spring Quarter Deadline)
-  year: 2021
-  id: sp2021-spring
-  link: https://www.ieee-security.org/TC/SP2021/index.html
-  deadline: '2020-3-5 23:59:59'
+- title: S&P (First Deadline)
+  year: 2022
+  id: sp2022-first
+  link: https://www.ieee-security.org/TC/SP2022/cfpapers.html
+  deadline: '2021-4-15 23:59:59'
   timezone: UTC-12
-  date: May 23-27, 2021
-  place: Online
+  date: To be determined
+  place: To be determined
   sub: SP
 
-- title: S&P (Summer Quarter Deadline)
-  year: 2021
-  id: sp2021-summer
-  link: https://www.ieee-security.org/TC/SP2021/index.html
-  deadline: '2020-6-4 23:59:59'
+- title: S&P (Second Deadline)
+  year: 2022
+  id: sp2022-second
+  link: https://www.ieee-security.org/TC/SP2022/cfpapers.html
+  deadline: '2021-8-19 23:59:59'
   timezone: UTC-12
-  date: May 23-27, 2021
-  place: Online
+  date: To be determined
+  place: To be determined
   sub: SP
 
-- title: S&P (Fall Quarter Deadline)
-  year: 2021
-  id: sp2021-fall
-  link: https://www.ieee-security.org/TC/SP2021/index.html
-  deadline: '2020-9-3 23:59:59'
+- title: S&P (Third Deadline)
+  year: 2022
+  id: sp2022-third
+  link: https://www.ieee-security.org/TC/SP2022/cfpapers.html
+  deadline: '2021-12-2 23:59:59'
   timezone: UTC-12
-  date: May 23-27, 2021
-  place: Online
-  sub: SP
-
-- title: S&P (Winter Quarter Deadline)
-  year: 2021
-  id: sp2021-winter
-  link: https://www.ieee-security.org/TC/SP2021/index.html
-  deadline: '2020-12-3 23:59:59'
-  timezone: UTC-12
-  date: May 23-27, 2021
-  place: Online
+  date: To be determined
+  place: To be determined
   sub: SP
 
 - title: USENIX Security (Summer Deadline)
-  year: 2021
-  id: usenixsecurity2021-summer
-  link: https://www.usenix.org/conference/usenixsecurity21
-  deadline: '2020-6-18 23:59:59'
+  year: 2022
+  id: usenixsecurity2022-summer
+  link: https://www.usenix.org/conference/usenixsecurity22/call-for-papers
+  deadline: '2021-6-8 23:59:59'
   timezone: UTC-12
-  date: August 11-13, 2021
-  place: Vancouver, B.C., Canada
+  date: August 10-12, 2022
+  place: Boston, MA, USA
   sub: SP
 
 - title: USENIX Security (Fall Deadline)
-  year: 2021
-  id: usenixsecurity2021-fall
-  link: https://www.usenix.org/conference/usenixsecurity21
-  deadline: '2020-10-15 23:59:59'
+  year: 2022
+  id: usenixsecurity2022-fall
+  link: https://www.usenix.org/conference/usenixsecurity22/call-for-papers
+  deadline: '2021-10-12 23:59:59'
   timezone: UTC-12
-  date: August 11-13, 2021
-  place: Vancouver, B.C., Canada
+  date: August 10-12, 2022
+  place: Boston, MA, USA
   sub: SP
 
 - title: USENIX Security (Winter Deadline)
-  year: 2021
-  id: usenixsecurity2021-winter
-  link: https://www.usenix.org/conference/usenixsecurity21
-  deadline: '2021-2-4 23:59:59'
+  year: 2022
+  id: usenixsecurity2022-winter
+  link: https://www.usenix.org/conference/usenixsecurity22/call-for-papers
+  deadline: '2022-2-1 23:59:59'
   timezone: UTC-12
-  date: August 11-13, 2021
-  place: Vancouver, B.C., Canada
+  date: August 10-12, 2022
+  place: Boston, MA, USA
   sub: SP
 
   # Mobile Computing
@@ -276,11 +270,11 @@
   sub: MC
   note: '<b>NOTE</b>: IMWUT has 4 deadlines per year: February 15, May 15, August 15, and November 15.'
 
-- title: UbiComp/IMWUT (Issue 4, 2020)
+- title: UbiComp/IMWUT (Issue 4, 2021)
   year: 2021
   id: ubicomp-issue4
   link: http://imwut.acm.org/
-  deadline: '2020-11-15 23:59:59'
+  deadline: '2021-11-15 23:59:59'
   timezone: UTC-5
   date: September 21-26, 2021
   place: Virtual Conference
